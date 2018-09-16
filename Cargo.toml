@@ -1,5 +1,5 @@
 [package]
-name = "grow-vec"
+name = "grow-collections"
 version = "0.1.0"
 authors = ["ashtneoi <ashtneoi@gmail.com>"]
 
